@@ -1,4 +1,4 @@
-package com.vs.training.infernopackage;
+package com.vg.training.infernopackage;
 
 public class File {
 
